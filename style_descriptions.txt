@@ -1,0 +1,75 @@
+STYLE_DESCRIPTIONS = {
+    "carrie": """
+    Carrie Bradshaw's unified style signature is eclectic, risk-taking, and visually expressive, built
+    around unexpected pairings and a high-low mix of fashion elements. Core indicators include tulle or
+    midi skirts, slip dresses, camis and tube tops, straight-leg or low-rise jeans, and distinctive statement
+    heels. Her outfits often feature romantic or feminine components—soft or flowing fabrics, playful textures,
+    floral details—and accessories that act as focal points, such as unique handbags, oversized flowers, quirky
+    hats, or boldly shaped jewelry. She consistently blends vintage or thrift-inspired pieces with couture-like
+    items, and she embraces vibrant colors, Y2K influences, and silhouettes that create a "shouldn't work but
+    does" effect.
+
+    Layering complexity and proportion play an important role: dramatic coats, oversized outerwear, skirts
+    over pants, dresses layered with shirts, or streetwear elements paired with elegant pieces. Carrie favors
+    expressive combinations that feel spontaneous but intentional, with a signature balance of whimsy, romance,
+    and personal flair. Outfits that convey experimentation, individuality, and a playful yet polished aesthetic—
+    especially those mixing textures, eras, or formality levels—are highly consistent with her overall style.
+
+    """,
+    "charlotte": """
+    Charlotte York's style is defined by polished femininity, structured silhouettes, and a consistent
+    preference for classic, preppy, and refined pieces. Core indicators include A-line skirts, fit-and-flare
+    dresses, pencil skirts, tailored trousers, crisp button-downs, cardigans, cashmere sweaters, and neutral
+    or pastel basics. Her color palette skews toward blush pinks, soft blues, creams, florals, and other gentle
+    tones. Accessories are minimal but elegant: pearl earrings, simple headbands, ballet flats, pointed-toe
+    pumps, and structured handbags. She favors clean lines, timeless fabrics, and outfits that project order,
+    composure, and traditional romantic femininity. Looks built from high-quality basics, polished layering,
+    or classic prints such as gingham, plaid, or houndstooth strongly align with her aesthetic.
+
+    Charlotte's wardrobe maintains a commitment to grace and refinement while maturing into richer colors,
+    more luxurious fabrics, and more formal or powerful silhouettes. Additional markers include tailored coats,
+    capes, tweed sets, waist-defining dresses, satin or silk blouses, and coordinated ensembles with an
+    intentionally “put-together” finish. Her outfits rarely incorporate experimental pairings or chaotic textures;
+    instead, they favor symmetry, balance, and traditional style norms. Any outfit that communicates elegance,
+    preppy structure, feminine detailing (lace, bows, frills), and timeless chic—especially when anchored by
+    pearls, court shoes, or polished outerwear—is strongly consistent with Charlotte York's overall fashion identity.
+    """,
+    "miranda": """
+    Miranda Hobbes' style is defined by structured, functional clothing with an androgynous, minimalist
+    edge. Key indicators include tailored blazers, structured coats, fitted trousers, pencil skirts, crisp
+    button-downs, turtlenecks, and monochrome or neutral color palettes (black, grey, navy, olive). Her outfits
+    prioritize clean lines, practicality, and professional sharpness rather than trend experimentation.
+    Footwear tends toward loafers, block heels, boots, and other utilitarian silhouettes. Miranda often
+    incorporates subtle masculine influences—suiting details, straight cuts, minimal embellishment—and favors
+    sleek, simple accessories like stud earrings, leather totes, or briefcases. Occasional bold colors
+    (especially reds and jewel tones) or strong statements like velvet suits or printed dresses appear but remain
+    within a streamlined aesthetic. Outfits that communicate efficiency, confidence, and modern business
+    sensibility align strongly with her style.
+
+    Her range also includes more casual but still intentional basics: turtlenecks, tees under blazers,
+    structured outerwear layered with denim or simple tops, and workwear-integrated casual pieces like trousers
+    paired with relaxed shirts. Minimalist dresses—especially little black dresses with clean necklines—fit
+    her understated formalwear profile. Even when leaning into softer or more experimental looks, the core traits
+    remain: modest cuts, functional silhouettes, low embellishment, and a practical, polished presentation.
+    An outfit is likely to fit Miranda if it emphasizes structure, simplicity, and a no-nonsense, contemporary
+    professionalism with mild androgynous influence.
+    """,
+    "samantha": """
+        Samantha Jones' style is defined by bold sensuality, high-impact glamour, and powerful formal dressing.
+        Core indicators include body-conscious silhouettes (curve-hugging dresses, plunging necklines,
+        thigh-high hems), saturated power colors (red, fuchsia, cobalt, emerald, gold), and dramatic fabrics
+        such as sequins, satin, metallics, and animal prints. Her outfits frequently emphasize confident sexuality
+        through fitted shapes, skin exposure, and statement accessories—oversized earrings, gold belts, glamorous
+        coats, or standout handbags. Even her daywear leans formal and commanding: crisp sheath dresses, sharply
+        tailored suits, pencil skirts, and consistently high heels. Any look built to attract attention, project
+        dominance, or celebrate sensual confidence aligns strongly with Samantha's aesthetic.
+
+        She also embodies a version of power dressing that blends 80s-coded elements—strong shoulders,
+        bold prints, exaggerated accessories—with a comedic or ironic edge. Samantha avoids neutrals, preferring
+        saturated, high-contrast palettes that instantly signal charisma. Her casual looks remain striking,
+        often anchored by red dresses or fitted basics that highlight her silhouette. Outfits that communicate
+        authority, glamour, and unapologetic confidence—even when slightly over-the-top—are highly characteristic
+        of Samantha Jones.
+
+    """
+}
