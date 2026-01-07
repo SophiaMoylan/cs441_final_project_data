@@ -29,7 +29,7 @@ To answer this, the pipeline removes certain identity information (faces, hair, 
 To prevent the model from cheating via facial or contextual cues:
 
 - Background removal using **U²-Net** (`rembg`)
-- Face and hair blackout using **OpenCV DNN face detection**
+- Face and hair blackout using **OpenCV DNN face detection** (further manual removal sometimes required)
 - Gamma correction + CLAHE for lighting normalization
 - Aspect-ratio–preserving resize with padding
 
