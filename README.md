@@ -86,14 +86,14 @@ Charlotte had the highest proportion of correctly classified outfits, while Mira
 
 ## Example Metrics
 
+```text
 ====================================
 CROSS-VALIDATION SUMMARY
-Accuracy: 0.595 ± 0.048
+====================================
+Accuracy:        0.595 ± 0.048
 Macro Precision: 0.598 ± 0.048
-Macro Recall: 0.596 ± 0.054
-Macro F1: 0.589 ± 0.052
-
-Or
+Macro Recall:    0.596 ± 0.054
+Macro F1:        0.589 ± 0.052
 
 ====================================
      PER-CLASS METRICS (AGGREGATED)
@@ -102,8 +102,7 @@ carrie      Precision: 0.6950 ± 0.1075   Recall: 0.6712 ± 0.1029   F1: 0.6728 
 charlotte   Precision: 0.7326 ± 0.1090   Recall: 0.6655 ± 0.0777   F1: 0.6933 ± 0.0756
 miranda     Precision: 0.6444 ± 0.3014   Recall: 0.4679 ± 0.2168   F1: 0.5258 ± 0.2295
 samantha    Precision: 0.5970 ± 0.0445   Recall: 0.7379 ± 0.1206   F1: 0.6584 ± 0.0747
-
----
+```
 
 ## Repository Structure
 
