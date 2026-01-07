@@ -1,1 +1,0 @@
-Miranda's SATC outfits

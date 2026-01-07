@@ -1,0 +1,1 @@
+Note: There may be duplicate outfits in the raw image set, but there are none in the preprocessed set!

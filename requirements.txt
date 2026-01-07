@@ -1,0 +1,13 @@
+torch
+transformers
+numpy
+pandas
+scikit-learn
+tqdm
+Pillow
+opencv-python
+scikit-image
+rembg
+onnxruntime
+matplotlib
+
