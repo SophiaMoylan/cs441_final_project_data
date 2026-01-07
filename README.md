@@ -106,6 +106,7 @@ samantha    Precision: 0.5970 ± 0.0445   Recall: 0.7379 ± 0.1206   F1: 0.6584 
 
 ## Repository Structure
 
+```text
 satc-outfit-predictor/
 ├── data/
 │   ├── raw_images/
@@ -140,6 +141,7 @@ satc-outfit-predictor/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
