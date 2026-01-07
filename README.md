@@ -127,6 +127,9 @@ satc-outfit-predictor/
 │   │   ├── remove_background.py
 │   │   ├── blackout_faces.py
 │   │   └── normalize_size_lighting.py
+│   ├── embedding/
+│   │   ├── embedding_clip.py
+│   │   └── embedding_mpnet.py
 │   └── models/
 │       ├── clip_fusion_linear.py
 │       ├── clip_fusion_ablation.py
