@@ -12,7 +12,7 @@ The core question for the project is:
 
 > Can we distinguish character *style* independently of the person wearing the clothes?
 
-To answer this, the pipeline aggressively removes identity information (faces, hair, backgrounds) and evaluates multiple classifiers over CLIP- and MPNet-based embeddings.
+To answer this, the pipeline removes certain identity information (faces, hair, backgrounds) and evaluates multiple classifiers over CLIP- and MPNet-based embeddings.
 
 ---
 
@@ -32,9 +32,8 @@ To prevent the model from cheating via facial or contextual cues:
 - Face and hair blackout using **OpenCV DNN face detection**
 - Gamma correction + CLAHE for lighting normalization
 - Aspect-ratio–preserving resize with padding
-- Color normalization
 
-This ensures the model focuses on **clothing features only**.
+This encourages the model to focus primarily on clothing-related features, though some residual non-clothing signals may remain.
 
 ---
 
