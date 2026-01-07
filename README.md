@@ -8,7 +8,7 @@ This project explores whether *stylistic signals* (silhouette, color palette, fo
 
 ## Project Goal
 
-The core research question is:
+The core question for the project is:
 
 > Can we distinguish character *style* independently of the person wearing the clothes?
 
@@ -19,7 +19,7 @@ To answer this, the pipeline aggressively removes identity information (faces, h
 ## Approach Overview
 
 ### 1. Data Collection
-- ~20–60 outfit images per character
+- ~30–70 outfit images per character
 - Sources: fashion blogs, curated image search, fan archives
 - Labels: `{carrie, miranda, charlotte, samantha}`
 
@@ -153,7 +153,7 @@ This project demonstrates that character style is partially learnable from cloth
 
 ## License
 
-MIT License 
+This project is released under the MIT License. It uses pretrained models and third-party assets subject to their respective licenses.
 
 ---
 
